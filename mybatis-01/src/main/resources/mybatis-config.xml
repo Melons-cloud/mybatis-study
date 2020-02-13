@@ -19,4 +19,11 @@
         </environment>
     </environments>
 
+
+
+    <mappers>
+        <mapper resource="com/hemukeji/dao/UserMapper.xml"></mapper>
+    </mappers>
+
+
 </configuration>
