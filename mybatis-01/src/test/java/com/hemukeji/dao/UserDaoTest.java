@@ -1,14 +1,9 @@
 package com.hemukeji.dao;
 
-import com.hemukeji.pojo.User;
-import com.hemukeji.utils.MybatisUtils;
-import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
 
-import java.util.List;
-
-public class UserDaoTest {
-
+public class UserDaoTest
+{
 
     @Test
     public void test(){
